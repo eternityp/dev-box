@@ -14,4 +14,12 @@ pyenv(Python 3.10), sdkman(Java 21), nvm(Node.js LTS) 런타임이 미리 설치
 
 --
 
+비밀번호 설정부분이 주석으로 Dockerfile 추가되었습니다.
+
+--
+
+.p10k.zsh 없이 실행 한다면 최초 접속 시 설정화면으로 시작합니다.
+
+--
+
 AI CLI(Claude Code, Codex, Antigravity)도 추가

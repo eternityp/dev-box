@@ -115,3 +115,6 @@ RUN chmod +x /entrypoint.sh
 EXPOSE 2222
 
 ENTRYPOINT ["/entrypoint.sh"]
+
+# user 비밀번호 설정 (필요 시 주석 해제)
+# RUN echo 'user:password' | chpasswd
